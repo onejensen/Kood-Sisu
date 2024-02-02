@@ -1,6 +1,6 @@
 package sprint
 
-func StrCompare(a, b string) int {
+/*func StrCompare(a, b string) int {
 
 	if a == b {
 		return 0
@@ -10,3 +10,4 @@ func StrCompare(a, b string) int {
 		return -1
 	}
 }
+*/

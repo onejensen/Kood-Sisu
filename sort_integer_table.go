@@ -1,6 +1,6 @@
 package sprint
 
-func SortIntegerTable(table []int) []int {
+func SortInteger_Table(table []int) []int {
 	//n es el lenght de table
 	n := len(table)
 
